@@ -1,0 +1,250 @@
+body{
+font-family: 'Quicksand', sans-serif;
+    font-size:16px;
+    line-height: 1.7;
+    margin:0px;
+    padding:0px;
+   
+    background-color:white;
+    
+}
+    
+.logo{
+    background-image:
+    url(../Desktop/LOG.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    padding: 60px;
+}
+
+.navbar ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    color: #664040;
+    text-align: center;
+
+}
+ 
+.navbar li{
+    display: inline-block;
+       
+}   
+.navbar a{text-decoration: none;
+    color: #664040;
+    width: 100px;
+    display: block;
+    padding: 25px 20px;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color:lightgray;
+}
+  
+.home-img{
+    padding: 400px;
+    background-image: url(../Desktop/main-img.JPG);
+    background-size: cover;
+    
+    
+}
+.home1{background-color:linen;
+    margin: 3em 8em 3em 8em;
+    border-radius: 50px;
+}
+.images{
+    overflow: hidden;
+    width: 80%;
+    display: flex;
+     margin-left: 8em;    
+}
+.images2{
+    width:100px;
+  
+}
+h2{
+    color: #664040;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 35px
+}
+h3{
+    color: #664040; 
+    font-size: 30px;
+    
+}
+ 
+.block1{
+    overflow: hidden;
+    background-color: linen;
+    text-align: left;
+    padding: 2em;
+    margin: 3em 8em 3em 8em;
+    border-radius: 50px;
+    
+    
+}
+.block1-text{
+    font-size: 16px;
+     float: left;
+    width: 50%;
+    
+}  
+
+.block1-img{
+    width: 40%;
+    padding-left: 60%;
+    border-radius: 100%;
+  
+}
+p{
+    text-align:justify;
+    margin-left: 40px;
+    margin-right:40px; 
+    padding-bottom: 100px;
+    padding-left: 100px;
+    padding-right:100px; 
+}
+.p3{
+    text-align:left;
+    font-size: 20px;
+   
+}
+
+.safetymain-image{
+    background-image: url(../Desktop/ABOUT%20US-IMG.JPG);
+    background-size:cover;
+    background-repeat: no-repeat;
+padding: 400px;
+    
+}
+
+.about-text{
+overflow: hidden;
+background-color: linen;
+margin:2em 8em 2em 8em;
+ padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    border-radius: 50px;
+   
+}
+.about-imge{
+     width: 50px;
+    padding-left: 50px;
+    margin: 2em 8em 2em 8em;
+      
+}
+
+.about-image{
+    background-image: url(../Desktop/goodforsafety2.JPG);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 400px;
+}
+.location{
+    text-align: center;
+    padding-top: 60px;
+    text-underline-position: left;
+}
+.safety{
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-bottom: 400px;
+}
+.event-image{
+    background-image: url(../Desktop/niceforevents.JPG);
+    background-size:100%;
+    background-repeat: no-repeat;
+    padding: 400px;  
+}
+
+
+.events{
+    overflow: hidden;
+    background-color:linen;
+    padding: 3em;
+    margin: 3em 8em 3em 8em;
+    border-radius: 50px;
+}
+.event-text{
+    float: left;
+    width: 100%; 
+    line-height: 1.0;
+}
+.events-image{
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 20px;
+}
+.contact{
+    padding-left: 40px;
+    padding-right: 40px;
+    
+}
+.conatct-image{
+    background-image: url(../Desktop/building.png);
+    background-size: 100%;
+    padding: 400px;
+    background-repeat: no-repeat;    
+}
+.adress{
+    overflow: hidden;
+    background-color: linen;
+    text-align:left;
+    padding: 2em;
+    margin: 3em 5em 3em 5em;
+}
+.adress-web{
+    font-size:16px;
+    float:left;
+    width: 50%;
+       
+}
+.adress-image{
+    float: left;
+    width: 50%;
+
+}
+.footer{
+    background-color:lightgray;
+    background-size: cover;
+    padding-top: 50PX;
+    padding-bottom: 50px;
+    margin-bottom: 10PX;
+    text-align: center;
+    color: #664040;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+ .fa-instagram{
+    background-color:#972769; 
+     color: white;   
+}
+.fa-youtube{
+    background-color: white;
+    color: red;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 100%;
+
+}
+
